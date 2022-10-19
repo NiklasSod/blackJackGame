@@ -1,0 +1,11 @@
+{
+  "name": "blackjackgame",
+  "version": "1.0.0",
+  "description": "play blackjack, a cardgame",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niklas Söderberg",
+  "license": "ISC"
+}
